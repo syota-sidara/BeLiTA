@@ -9,6 +9,7 @@ body{
   letter-spacing: .05em;
   color: #171717;
   font-family: 'Noto Serif','Noto Serif JP', serif;
+  list-style: none;
 }
 img{
   width: 100%;
