@@ -1,6 +1,9 @@
 /* ------------------------ */
 /* base */
 /* ------------------------- */
+*{
+  list-style:none;
+}
 html{
   font-size: 62.5%;
 }
@@ -119,6 +122,7 @@ img{
 
 .nav-list{
   display: flex;
+  list-style:none;
 }
 
 .nav-item{
@@ -230,6 +234,7 @@ img{
   padding: 0 50px;
   display: flex;
   justify-content: space-between;
+  list-style: none;
 }
 
 .works-item{
@@ -255,6 +260,7 @@ img{
 /* ------------------------- */
 .service-list{
   display: flex;
+  list-style:none;
 }
 
 .service-item{
